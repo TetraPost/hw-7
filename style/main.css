@@ -140,7 +140,7 @@ footer
 {
     background-image: url(./images/ice.png);
     background-repeat: no-repeat;
-    min-height: 510px;
+    height: 490px;
     display: inline-block;
     width: 581px;
     /* margin: 0 auto; */
